@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @yawenZz
-- 👀 Hope I can get along with GitHub well.
+- 🐱‍💻 a Computer Science student
 
 <!---
 yawenZz/yawenZz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
