@@ -1,7 +1,7 @@
 Hi! I am Yawen.
 
-- 🐱‍💻 Major: Computer Science Undergraduate
-- 🌇 Location: Ningbo, China
+- 🐱‍💻 Computer Science undergraduate
+- 🌇 Ningbo, China
 
 <!---
 yawenZz/yawenZz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
