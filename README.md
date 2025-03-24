@@ -1,4 +1,4 @@
-## Hi! I’m Yawen (Kelly) 👋
+## Hi! I’m Kelly 👋
 
 - 🐱‍💻 Master's student in CS @ UChicago  
 - 🌇 Based in Chicago, IL  
