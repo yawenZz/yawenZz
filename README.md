@@ -1,9 +1,10 @@
-## Hi! I’m Kelly 👋
+## 👋
 
-- 🐱‍💻 Master's student in CS @ UChicago  
-- 🌇 Based in Chicago, IL  
-- 💡 Passionate about **UI/UX, software development, and computer architecture**  
-- 🚀 Currently working on a Cloud Computing Project & Web Development
+I’m passionate about building thoughtful digital experiences and exploring how software works from interface to architecture.
+
+- 💡 Interested in UI/UX, software development, and computer architecture
+- 🛠️ Focused on creating software that is intuitive, reliable, and well-designed
+- 🌇 Based in Chicago, Illinois
 
 📫 Feel free to connect!
 
